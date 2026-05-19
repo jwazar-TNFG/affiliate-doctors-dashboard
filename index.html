@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affiliate Doctors Dashboard</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #fff;
+            min-height: 100vh;
+            padding: 12px;
+        }
+        .header { text-align: center; margin-bottom: 20px; }
+        .header h1 {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+            background: linear-gradient(90deg, #10b981, #06b6d4);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .subtitle { color: #94a3b8; font-size: 0.9rem; }
+        .last-updated { color: #64748b; font-size: 0.75rem; margin-top: 5px; }
+        .pace-indicator { 
+            display: inline-block;
+            background: rgba(255,255,255,0.1);
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-top: 8px;
+            color: #94a3b8;
+        }
+        .pace-indicator strong { color: #fbbf24; }
+        
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        @media (min-width: 768px) { .summary-grid { grid-template-columns: repeat(4, 1fr); } }
+        .summary-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 15px;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .summary-card .value { font-size: 1.8rem; font-weight: bold; margin-bottom: 5px; }
+        .summary-card .label { color: #94a3b8; font-size: 0.8rem; text-transform: uppercase; }
+        .summary-card.goal .value { color: #60a5fa; }
+        .summary-card.delivered .value { color: #34d399; }
+        .summary-card.owed .value { color: #f87171; }
+        .summary-card.percent .value { color: #fbbf24; }
+        
+        .progress-container {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .progress-label { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 0.9rem; }
+        .progress-bar { height: 24px; background: rgba(255,255,255,0.1); border-radius: 12px; overflow: hidden; position: relative; }
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #10b981, #06b6d4);
+            border-radius: 12px;
+            transition: width 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding-right: 10px;
+            font-weight: bold;
+            font-size: 0.8rem;
+        }
+        .pace-marker {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: #fbbf24;
+            border-radius: 2px;
+            z-index: 10;
+        }
+        .pace-marker::after {
+            content: 'Pace';
+            position: absolute;
+            top: -18px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.65rem;
+            color: #fbbf24;
+            white-space: nowrap;
+        }
+        
+        .controls { display: flex; gap: 10px; margin-bottom: 15px; flex-wrap: wrap; }
+        .controls select, .controls input {
+            flex: 1;
+            min-width: 120px;
+            padding: 10px 12px;
+            border-radius: 8px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.05);
+            color: #fff;
+            font-size: 0.9rem;
+        }
+        .controls select option { background: #1a1a2e; }
+        
+        .table-container { background: rgba(255,255,255,0.05); border-radius: 12px; overflow-x: auto; }
+        table { width: 100%; border-collapse: collapse; min-width: 500px; }
+        th {
+            background: rgba(0,0,0,0.3);
+            padding: 12px 8px;
+            text-align: left;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: #94a3b8;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+        th:hover { background: rgba(0,0,0,0.4); }
+        th.sorted-asc::after { content: ' ↑'; }
+        th.sorted-desc::after { content: ' ↓'; }
+        td { padding: 12px 8px; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.85rem; }
+        tr:hover { background: rgba(255,255,255,0.05); }
+        .clinic-name { font-weight: 600; }
+        .state-badge {
+            display: inline-block;
+            padding: 3px 8px;
+            background: rgba(16,185,129,0.2);
+            border-radius: 4px;
+            font-size: 0.75rem;
+            color: #10b981;
+        }
+        .num { font-weight: 600; text-align: center; }
+        .num.goal { color: #60a5fa; }
+        .num.net { color: #34d399; }
+        .num.owed { color: #fbbf24; }
+        .num.done { color: #22c55e; }
+        .row-done { background: rgba(34,197,94,0.1) !important; }
+        .mini-bar { width: 60px; height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; overflow: hidden; }
+        .mini-fill { height: 100%; border-radius: 4px; }
+        .mini-fill.low { background: #f87171; }
+        .mini-fill.med { background: #fbbf24; }
+        .mini-fill.high { background: #34d399; }
+        .loading { text-align: center; padding: 40px; color: #94a3b8; }
+        
+        @media (max-width: 600px) {
+            .header h1 { font-size: 1.2rem; }
+            .summary-card .value { font-size: 1.4rem; }
+            td, th { padding: 8px 4px; font-size: 0.75rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏥 Affiliate Doctors Goals</h1>
+        <div class="subtitle" id="monthDisplay">May 2026</div>
+        <div class="last-updated" id="lastUpdated">Loading...</div>
+        <div class="pace-indicator">Day <strong id="dayOfMonth">—</strong> of <strong id="daysInMonth">—</strong> — should be at <strong id="expectedPace">—</strong></div>
+    </div>
+    
+    <div class="summary-grid">
+        <div class="summary-card goal"><div class="value" id="totalGoal">—</div><div class="label">Goal</div></div>
+        <div class="summary-card delivered"><div class="value" id="totalDelivered">—</div><div class="label">Delivered</div></div>
+        <div class="summary-card owed"><div class="value" id="totalOwed">—</div><div class="label">Owed</div></div>
+        <div class="summary-card percent"><div class="value" id="totalPercent">—</div><div class="label">Progress</div></div>
+    </div>
+    
+    <div class="progress-container">
+        <div class="progress-label"><span>Overall</span><span id="progressLabel">—</span></div>
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill" style="width:0%"></div>
+            <div class="pace-marker" id="paceMarker" style="left:50%"></div>
+        </div>
+    </div>
+    
+    <div class="controls">
+        <select id="stateFilter"><option value="">All States</option></select>
+        <input type="text" id="searchInput" placeholder="Search clinic...">
+    </div>
+    
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th data-sort="clinic_name">Clinic</th>
+                    <th data-sort="state">State</th>
+                    <th data-sort="monthly_goal">Goal</th>
+                    <th data-sort="net">MTD</th>
+                    <th data-sort="owed">Owed</th>
+                    <th data-sort="percent">%</th>
+                </tr>
+            </thead>
+            <tbody id="tbody"><tr><td colspan="6" class="loading">Loading...</td></tr></tbody>
+        </table>
+    </div>
+
+<script>
+let data = [], sort = { col: 'owed', dir: 'desc' };
+
+function getPaceInfo() {
+    const now = new Date();
+    const day = now.getDate();
+    const daysInMonth = new Date(now.getFullYear(), now.getMonth() + 1, 0).getDate();
+    const expectedPct = Math.round((day / daysInMonth) * 100);
+    return { day, daysInMonth, expectedPct };
+}
+
+async function loadData() {
+    try {
+        const resp = await fetch('data.json?' + Date.now(), { cache: 'no-store' });
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        const json = await resp.json();
+        data = json.data;
+        document.getElementById('monthDisplay').textContent = json.month;
+        document.getElementById('lastUpdated').textContent = 'Data as of: ' + new Date(json.updated).toLocaleString();
+        updateUI();
+    } catch (e) {
+        document.getElementById('tbody').innerHTML = '<tr><td colspan="6" style="color:#f87171;text-align:center">Error: ' + e.message + '</td></tr>';
+        console.error('Load failed:', e);
+    }
+}
+
+function updateUI() {
+    const pace = getPaceInfo();
+    document.getElementById('dayOfMonth').textContent = pace.day;
+    document.getElementById('daysInMonth').textContent = pace.daysInMonth;
+    document.getElementById('expectedPace').textContent = pace.expectedPct + '%';
+    document.getElementById('paceMarker').style.left = pace.expectedPct + '%';
+    
+    const tg = data.reduce((s, d) => s + d.monthly_goal, 0);
+    const td = data.reduce((s, d) => s + d.net, 0);
+    const to = data.reduce((s, d) => s + d.owed, 0);
+    const pct = tg > 0 ? Math.round(td / tg * 100) : 0;
+    
+    document.getElementById('totalGoal').textContent = tg.toLocaleString();
+    document.getElementById('totalDelivered').textContent = td.toLocaleString();
+    document.getElementById('totalOwed').textContent = to.toLocaleString();
+    document.getElementById('totalPercent').textContent = pct + '%';
+    document.getElementById('progressLabel').textContent = td.toLocaleString() + ' / ' + tg.toLocaleString();
+    document.getElementById('progressFill').style.width = Math.min(100, pct) + '%';
+    document.getElementById('progressFill').textContent = pct >= 10 ? pct + '%' : '';
+    
+    const states = [...new Set(data.map(d => d.state))].sort();
+    const sel = document.getElementById('stateFilter');
+    const cur = sel.value;
+    sel.innerHTML = '<option value="">All States</option>' + states.map(s => '<option value="' + s + '">' + s + '</option>').join('');
+    sel.value = cur;
+    
+    render();
+}
+
+function render() {
+    const sf = document.getElementById('stateFilter').value;
+    const q = document.getElementById('searchInput').value.toLowerCase();
+    let filtered = data.filter(d => {
+        return (!sf || d.state === sf) && (!q || d.clinic_name.toLowerCase().includes(q));
+    });
+    
+    filtered.sort((a, b) => {
+        let av = a[sort.col], bv = b[sort.col];
+        if (typeof av === 'string') { av = av.toLowerCase(); bv = bv.toLowerCase(); }
+        return sort.dir === 'asc' ? (av > bv ? 1 : -1) : (av < bv ? 1 : -1);
+    });
+    
+    document.querySelectorAll('th').forEach(th => {
+        th.classList.remove('sorted-asc', 'sorted-desc');
+        if (th.dataset.sort === sort.col) th.classList.add('sorted-' + sort.dir);
+    });
+    
+    const tbody = document.getElementById('tbody');
+    if (!filtered.length) { tbody.innerHTML = '<tr><td colspan="6" class="loading">No results</td></tr>'; return; }
+    
+    tbody.innerHTML = filtered.map(d => {
+        const done = d.net >= d.monthly_goal;
+        const cls = d.percent >= 75 ? 'high' : d.percent >= 50 ? 'med' : 'low';
+        return '<tr class="' + (done ? 'row-done' : '') + '">' +
+            '<td class="clinic-name">' + d.clinic_name + '</td>' +
+            '<td><span class="state-badge">' + d.state + '</span></td>' +
+            '<td class="num goal">' + d.monthly_goal + '</td>' +
+            '<td class="num net">' + d.net + '</td>' +
+            '<td class="num ' + (done ? 'done' : 'owed') + '">' + (done ? '✓' : d.owed) + '</td>' +
+            '<td><div class="mini-bar"><div class="mini-fill ' + cls + '" style="width:' + Math.min(100, d.percent) + '%"></div></div></td></tr>';
+    }).join('');
+}
+
+document.getElementById('stateFilter').onchange = render;
+document.getElementById('searchInput').oninput = render;
+document.querySelectorAll('th[data-sort]').forEach(th => {
+    th.onclick = () => {
+        if (sort.col === th.dataset.sort) sort.dir = sort.dir === 'asc' ? 'desc' : 'asc';
+        else { sort.col = th.dataset.sort; sort.dir = 'desc'; }
+        render();
+    };
+});
+
+loadData();
+setInterval(loadData, 300000);
+</script>
+</body>
+</html>
