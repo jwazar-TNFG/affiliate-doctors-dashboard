@@ -60,10 +60,10 @@
       "clinic_name": "Dr. Nalley",
       "state": "Florida",
       "monthly_goal": 5,
-      "gross": 0,
-      "net": 0,
-      "owed": 5,
-      "percent": 0
+      "gross": 1,
+      "net": 1,
+      "owed": 4,
+      "percent": 20
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
