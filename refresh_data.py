@@ -52,6 +52,16 @@ AFFILIATE_GROUPS = {
         'state': 'Florida',
         'goal': 15
     },
+    'Dr. Nalley': {
+        'keywords': ['nalley'],
+        'state': 'Florida',
+        'goal': 5
+    },
+    'Neal': {
+        'keywords': ['neal'],
+        'state': 'Florida',
+        'goal': 2
+    },
     'Victor Patel': {
         'keywords': ['victor patel'],
         'state': 'Florida',
