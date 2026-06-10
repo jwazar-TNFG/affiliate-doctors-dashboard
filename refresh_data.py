@@ -28,7 +28,7 @@ AFFILIATE_GROUPS = {
     'Physicians Group / Path Medical': {
         'keywords': ['physicians group', 'path medical', 'ask gary'],
         'state': 'Florida',
-        'goal': 30
+        'goal': 0
     },
     'Arrowhead Clinics': {
         'keywords': ['arrowhead'],
