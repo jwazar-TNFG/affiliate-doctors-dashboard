@@ -1,51 +1,51 @@
 {
-  "updated": "2026-07-16T18:20:03",
+  "updated": "2026-07-16T20:20:02",
   "month": "July 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 121,
-      "net": 121,
-      "owed": 79,
-      "percent": 60
-    },
-    {
-      "clinic_name": "Illinois Orthopedic Network (ION)",
-      "state": "Illinois",
-      "monthly_goal": 100,
-      "gross": 54,
-      "net": 54,
-      "owed": 46,
-      "percent": 54
+      "gross": 117,
+      "net": 117,
+      "owed": 83,
+      "percent": 58
     },
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 7,
-      "net": 7,
-      "owed": 43,
-      "percent": 14
+      "gross": 8,
+      "net": 8,
+      "owed": 42,
+      "percent": 16
+    },
+    {
+      "clinic_name": "Illinois Orthopedic Network (ION)",
+      "state": "Illinois",
+      "monthly_goal": 100,
+      "gross": 60,
+      "net": 60,
+      "owed": 40,
+      "percent": 60
     },
     {
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 18,
-      "net": 18,
-      "owed": 33,
-      "percent": 35
+      "gross": 28,
+      "net": 28,
+      "owed": 23,
+      "percent": 55
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 4,
-      "net": 4,
-      "owed": 21,
-      "percent": 16
+      "gross": 6,
+      "net": 6,
+      "owed": 19,
+      "percent": 24
     },
     {
       "clinic_name": "Dr. Genao",
@@ -60,19 +60,19 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 15,
-      "net": 15,
-      "owed": 10,
-      "percent": 60
+      "gross": 16,
+      "net": 16,
+      "owed": 9,
+      "percent": 64
     },
     {
       "clinic_name": "Dr. Nalley",
       "state": "Florida",
       "monthly_goal": 5,
-      "gross": 2,
-      "net": 2,
-      "owed": 3,
-      "percent": 40
+      "gross": 0,
+      "net": 0,
+      "owed": 5,
+      "percent": 0
     },
     {
       "clinic_name": "Neal",
@@ -87,8 +87,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 4,
-      "net": 4,
+      "gross": 6,
+      "net": 6,
       "owed": 0,
       "percent": 0
     }
