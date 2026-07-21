@@ -1,24 +1,24 @@
 {
-  "updated": "2026-07-21T08:20:02",
+  "updated": "2026-07-21T10:20:02",
   "month": "July 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 144,
-      "net": 144,
-      "owed": 56,
-      "percent": 72
+      "gross": 146,
+      "net": 146,
+      "owed": 54,
+      "percent": 73
     },
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 11,
-      "net": 11,
-      "owed": 39,
-      "percent": 22
+      "gross": 13,
+      "net": 13,
+      "owed": 37,
+      "percent": 26
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
@@ -42,10 +42,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 39,
-      "net": 39,
-      "owed": 12,
-      "percent": 76
+      "gross": 40,
+      "net": 40,
+      "owed": 11,
+      "percent": 78
     },
     {
       "clinic_name": "Dr. Genao",
