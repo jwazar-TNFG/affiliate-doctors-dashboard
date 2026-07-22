@@ -1,24 +1,24 @@
 {
-  "updated": "2026-07-22T16:20:00",
+  "updated": "2026-07-22T18:20:04",
   "month": "July 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 161,
-      "net": 161,
-      "owed": 39,
-      "percent": 80
+      "gross": 163,
+      "net": 163,
+      "owed": 37,
+      "percent": 82
     },
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 16,
-      "net": 16,
-      "owed": 34,
-      "percent": 32
+      "gross": 17,
+      "net": 17,
+      "owed": 33,
+      "percent": 34
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
@@ -60,10 +60,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 46,
-      "net": 46,
-      "owed": 5,
-      "percent": 90
+      "gross": 47,
+      "net": 47,
+      "owed": 4,
+      "percent": 92
     },
     {
       "clinic_name": "Dr. Nalley",
