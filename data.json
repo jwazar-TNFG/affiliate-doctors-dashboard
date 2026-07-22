@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T20:20:02",
+  "updated": "2026-07-21T22:20:00",
   "month": "July 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 78,
-      "net": 78,
-      "owed": 22,
-      "percent": 78
+      "gross": 80,
+      "net": 80,
+      "owed": 20,
+      "percent": 80
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
