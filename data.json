@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T20:20:02",
+  "updated": "2026-07-25T22:20:03",
   "month": "July 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 186,
-      "net": 186,
-      "owed": 14,
-      "percent": 93
+      "gross": 190,
+      "net": 190,
+      "owed": 10,
+      "percent": 95
     },
     {
       "clinic_name": "Dr. Genao",
