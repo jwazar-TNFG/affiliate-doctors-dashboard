@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T20:20:04",
+  "updated": "2026-07-26T22:20:04",
   "month": "July 2026",
   "data": [
     {
@@ -87,10 +87,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 56,
-      "net": 56,
+      "gross": 57,
+      "net": 57,
       "owed": 0,
-      "percent": 110
+      "percent": 112
     }
   ]
 }
