@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T10:20:03",
+  "updated": "2026-07-27T12:20:02",
   "month": "July 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 190,
-      "net": 190,
-      "owed": 10,
-      "percent": 95
+      "gross": 191,
+      "net": 191,
+      "owed": 9,
+      "percent": 96
     },
     {
       "clinic_name": "Dr. Genao",
@@ -87,10 +87,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 57,
-      "net": 57,
+      "gross": 58,
+      "net": 58,
       "owed": 0,
-      "percent": 112
+      "percent": 114
     }
   ]
 }
