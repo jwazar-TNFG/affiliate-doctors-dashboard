@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T22:20:03",
+  "updated": "2026-07-28T08:20:03",
   "month": "July 2026",
   "data": [
     {
@@ -51,10 +51,10 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 197,
-      "net": 197,
-      "owed": 3,
-      "percent": 98
+      "gross": 198,
+      "net": 198,
+      "owed": 2,
+      "percent": 99
     },
     {
       "clinic_name": "Neal",
@@ -87,10 +87,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 67,
-      "net": 67,
+      "gross": 69,
+      "net": 69,
       "owed": 0,
-      "percent": 131
+      "percent": 135
     }
   ]
 }
