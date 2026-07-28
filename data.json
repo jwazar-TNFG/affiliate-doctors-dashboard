@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T08:20:03",
+  "updated": "2026-07-28T10:20:03",
   "month": "July 2026",
   "data": [
     {
@@ -30,15 +30,6 @@
       "percent": 40
     },
     {
-      "clinic_name": "Victor Patel",
-      "state": "Florida",
-      "monthly_goal": 25,
-      "gross": 20,
-      "net": 20,
-      "owed": 5,
-      "percent": 80
-    },
-    {
       "clinic_name": "Dr. Nalley",
       "state": "Florida",
       "monthly_goal": 5,
@@ -48,13 +39,13 @@
       "percent": 20
     },
     {
-      "clinic_name": "Georgia Injury Centers",
-      "state": "Georgia",
-      "monthly_goal": 200,
-      "gross": 198,
-      "net": 198,
-      "owed": 2,
-      "percent": 99
+      "clinic_name": "Victor Patel",
+      "state": "Florida",
+      "monthly_goal": 25,
+      "gross": 22,
+      "net": 22,
+      "owed": 3,
+      "percent": 88
     },
     {
       "clinic_name": "Neal",
@@ -64,6 +55,15 @@
       "net": 0,
       "owed": 2,
       "percent": 0
+    },
+    {
+      "clinic_name": "Georgia Injury Centers",
+      "state": "Georgia",
+      "monthly_goal": 200,
+      "gross": 199,
+      "net": 199,
+      "owed": 1,
+      "percent": 100
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
