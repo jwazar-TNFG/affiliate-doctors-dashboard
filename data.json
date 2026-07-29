@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T18:20:02",
+  "updated": "2026-07-28T20:20:02",
   "month": "July 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 12,
-      "net": 12,
-      "owed": 13,
-      "percent": 48
+      "gross": 13,
+      "net": 13,
+      "owed": 12,
+      "percent": 52
     },
     {
       "clinic_name": "Dr. Genao",
@@ -69,17 +69,17 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 116,
-      "net": 116,
+      "gross": 121,
+      "net": 121,
       "owed": 0,
-      "percent": 116
+      "percent": 121
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 3,
-      "net": 3,
+      "gross": 8,
+      "net": 8,
       "owed": 0,
       "percent": 0
     },
