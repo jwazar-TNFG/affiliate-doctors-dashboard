@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-29T16:20:05",
+  "updated": "2026-07-29T18:20:03",
   "month": "July 2026",
   "data": [
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 26,
-      "net": 26,
-      "owed": 24,
-      "percent": 52
+      "gross": 28,
+      "net": 28,
+      "owed": 22,
+      "percent": 56
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
