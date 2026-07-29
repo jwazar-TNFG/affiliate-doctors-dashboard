@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-28T20:20:02",
+  "updated": "2026-07-28T22:20:03",
   "month": "July 2026",
   "data": [
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 21,
-      "net": 21,
-      "owed": 29,
-      "percent": 42
+      "gross": 23,
+      "net": 23,
+      "owed": 27,
+      "percent": 46
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
@@ -39,15 +39,6 @@
       "percent": 20
     },
     {
-      "clinic_name": "Victor Patel",
-      "state": "Florida",
-      "monthly_goal": 25,
-      "gross": 22,
-      "net": 22,
-      "owed": 3,
-      "percent": 88
-    },
-    {
       "clinic_name": "Neal",
       "state": "Florida",
       "monthly_goal": 2,
@@ -55,6 +46,15 @@
       "net": 0,
       "owed": 2,
       "percent": 0
+    },
+    {
+      "clinic_name": "Victor Patel",
+      "state": "Florida",
+      "monthly_goal": 25,
+      "gross": 24,
+      "net": 24,
+      "owed": 1,
+      "percent": 96
     },
     {
       "clinic_name": "Georgia Injury Centers",
@@ -87,10 +87,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 70,
-      "net": 70,
+      "gross": 72,
+      "net": 72,
       "owed": 0,
-      "percent": 137
+      "percent": 141
     }
   ]
 }
