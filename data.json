@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T08:20:05",
+  "updated": "2026-08-07T10:20:02",
   "month": "August 2026",
   "data": [
     {
@@ -42,10 +42,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 7,
-      "net": 7,
-      "owed": 18,
-      "percent": 28
+      "gross": 8,
+      "net": 8,
+      "owed": 17,
+      "percent": 32
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
