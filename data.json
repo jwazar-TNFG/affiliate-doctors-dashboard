@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T10:20:04",
+  "updated": "2026-08-10T12:20:00",
   "month": "August 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 41,
-      "net": 41,
-      "owed": 59,
-      "percent": 41
+      "gross": 43,
+      "net": 43,
+      "owed": 57,
+      "percent": 43
     },
     {
       "clinic_name": "Dr. Khan (FL)",
@@ -33,10 +33,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 20,
-      "net": 20,
-      "owed": 31,
-      "percent": 39
+      "gross": 21,
+      "net": 21,
+      "owed": 30,
+      "percent": 41
     },
     {
       "clinic_name": "Victor Patel",
