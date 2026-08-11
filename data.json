@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-11T14:20:05",
+  "updated": "2026-08-11T16:20:02",
   "month": "August 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 77,
-      "net": 77,
-      "owed": 123,
-      "percent": 38
+      "gross": 79,
+      "net": 79,
+      "owed": 121,
+      "percent": 40
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
@@ -60,10 +60,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 13,
-      "net": 13,
-      "owed": 12,
-      "percent": 52
+      "gross": 17,
+      "net": 17,
+      "owed": 8,
+      "percent": 68
     },
     {
       "clinic_name": "Dr. Nalley",
