@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T16:20:03",
+  "updated": "2026-08-12T18:20:03",
   "month": "August 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 60,
-      "net": 60,
-      "owed": 40,
-      "percent": 60
+      "gross": 61,
+      "net": 61,
+      "owed": 39,
+      "percent": 61
     },
     {
       "clinic_name": "Arrowhead Clinics",
@@ -42,10 +42,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 10,
-      "net": 10,
-      "owed": 15,
-      "percent": 40
+      "gross": 11,
+      "net": 11,
+      "owed": 14,
+      "percent": 44
     },
     {
       "clinic_name": "Dr. Genao",
@@ -60,10 +60,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 19,
-      "net": 19,
-      "owed": 6,
-      "percent": 76
+      "gross": 21,
+      "net": 21,
+      "owed": 4,
+      "percent": 84
     },
     {
       "clinic_name": "Dr. Nalley",
