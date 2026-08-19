@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-19T10:20:00",
+  "updated": "2026-08-19T12:20:01",
   "month": "August 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 148,
-      "net": 148,
-      "owed": 52,
+      "gross": 149,
+      "net": 149,
+      "owed": 51,
       "percent": 74
     },
     {
@@ -87,10 +87,10 @@
       "clinic_name": "Neal",
       "state": "Florida",
       "monthly_goal": 2,
-      "gross": 3,
-      "net": 3,
+      "gross": 4,
+      "net": 4,
       "owed": 0,
-      "percent": 150
+      "percent": 200
     }
   ]
 }
