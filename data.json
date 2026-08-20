@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T22:20:00",
+  "updated": "2026-08-20T08:20:01",
   "month": "August 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 16,
-      "net": 16,
-      "owed": 34,
-      "percent": 32
+      "gross": 19,
+      "net": 19,
+      "owed": 31,
+      "percent": 38
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
