@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:20:04",
+  "updated": "2026-08-21T20:20:02",
   "month": "August 2026",
   "data": [
     {
@@ -21,40 +21,40 @@
       "percent": 38
     },
     {
-      "clinic_name": "Illinois Orthopedic Network (ION)",
-      "state": "Illinois",
-      "monthly_goal": 100,
-      "gross": 90,
-      "net": 90,
-      "owed": 10,
-      "percent": 90
-    },
-    {
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 41,
-      "net": 41,
-      "owed": 10,
-      "percent": 80
+      "gross": 42,
+      "net": 42,
+      "owed": 9,
+      "percent": 82
     },
     {
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 16,
-      "net": 16,
-      "owed": 9,
-      "percent": 64
+      "gross": 17,
+      "net": 17,
+      "owed": 8,
+      "percent": 68
+    },
+    {
+      "clinic_name": "Illinois Orthopedic Network (ION)",
+      "state": "Illinois",
+      "monthly_goal": 100,
+      "gross": 93,
+      "net": 93,
+      "owed": 7,
+      "percent": 93
     },
     {
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
-      "gross": 8,
-      "net": 8,
-      "owed": 7,
-      "percent": 53
+      "gross": 9,
+      "net": 9,
+      "owed": 6,
+      "percent": 60
     },
     {
       "clinic_name": "Dr. Nalley",
