@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T22:20:00",
+  "updated": "2026-08-22T08:20:01",
   "month": "August 2026",
   "data": [
     {
@@ -15,9 +15,9 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 175,
-      "net": 175,
-      "owed": 25,
+      "gross": 176,
+      "net": 176,
+      "owed": 24,
       "percent": 88
     },
     {
@@ -39,15 +39,6 @@
       "percent": 93
     },
     {
-      "clinic_name": "Arrowhead Clinics",
-      "state": "Georgia",
-      "monthly_goal": 51,
-      "gross": 44,
-      "net": 44,
-      "owed": 7,
-      "percent": 86
-    },
-    {
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
@@ -55,6 +46,15 @@
       "net": 9,
       "owed": 6,
       "percent": 60
+    },
+    {
+      "clinic_name": "Arrowhead Clinics",
+      "state": "Georgia",
+      "monthly_goal": 51,
+      "gross": 47,
+      "net": 47,
+      "owed": 4,
+      "percent": 92
     },
     {
       "clinic_name": "Dr. Nalley",
