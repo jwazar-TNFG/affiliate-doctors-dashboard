@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:20:05",
+  "updated": "2026-08-22T16:20:02",
   "month": "August 2026",
   "data": [
     {
@@ -60,8 +60,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 14,
-      "net": 14,
+      "gross": 15,
+      "net": 15,
       "owed": 0,
       "percent": 0
     },
