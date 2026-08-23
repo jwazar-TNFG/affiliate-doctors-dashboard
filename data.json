@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:20:00",
+  "updated": "2026-08-22T20:20:01",
   "month": "August 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 183,
-      "net": 183,
-      "owed": 17,
-      "percent": 92
+      "gross": 187,
+      "net": 187,
+      "owed": 13,
+      "percent": 94
     },
     {
       "clinic_name": "Victor Patel",
