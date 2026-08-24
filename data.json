@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:20:04",
+  "updated": "2026-08-23T20:20:02",
   "month": "August 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 190,
-      "net": 190,
-      "owed": 10,
-      "percent": 95
+      "gross": 192,
+      "net": 192,
+      "owed": 8,
+      "percent": 96
     },
     {
       "clinic_name": "Victor Patel",
@@ -30,15 +30,6 @@
       "percent": 68
     },
     {
-      "clinic_name": "Illinois Orthopedic Network (ION)",
-      "state": "Illinois",
-      "monthly_goal": 100,
-      "gross": 93,
-      "net": 93,
-      "owed": 7,
-      "percent": 93
-    },
-    {
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
@@ -46,6 +37,15 @@
       "net": 9,
       "owed": 6,
       "percent": 60
+    },
+    {
+      "clinic_name": "Illinois Orthopedic Network (ION)",
+      "state": "Illinois",
+      "monthly_goal": 100,
+      "gross": 97,
+      "net": 97,
+      "owed": 3,
+      "percent": 97
     },
     {
       "clinic_name": "Dr. Nalley",
