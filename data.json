@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-24T18:20:03",
+  "updated": "2026-08-24T20:20:01",
   "month": "August 2026",
   "data": [
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 19,
-      "net": 19,
-      "owed": 31,
-      "percent": 38
+      "gross": 21,
+      "net": 21,
+      "owed": 29,
+      "percent": 42
     },
     {
       "clinic_name": "Victor Patel",
@@ -42,8 +42,8 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 203,
-      "net": 203,
+      "gross": 202,
+      "net": 202,
       "owed": 0,
       "percent": 101
     },
