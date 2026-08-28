@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T12:20:06",
+  "updated": "2026-08-28T14:20:00",
   "month": "August 2026",
   "data": [
     {
@@ -78,10 +78,10 @@
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
-      "gross": 16,
-      "net": 16,
+      "gross": 17,
+      "net": 17,
       "owed": 0,
-      "percent": 107
+      "percent": 113
     },
     {
       "clinic_name": "Neal",
