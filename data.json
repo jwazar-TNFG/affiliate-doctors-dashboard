@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T16:20:03",
+  "updated": "2026-08-29T18:20:04",
   "month": "August 2026",
   "data": [
     {
@@ -60,19 +60,19 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 69,
-      "net": 69,
+      "gross": 70,
+      "net": 70,
       "owed": 0,
-      "percent": 135
+      "percent": 137
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 65,
-      "net": 65,
+      "gross": 66,
+      "net": 66,
       "owed": 0,
-      "percent": 260
+      "percent": 264
     },
     {
       "clinic_name": "Dr. Genao",
