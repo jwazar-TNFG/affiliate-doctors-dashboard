@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T18:20:00",
+  "updated": "2026-08-28T20:20:00",
   "month": "August 2026",
   "data": [
     {
@@ -12,15 +12,6 @@
       "percent": 54
     },
     {
-      "clinic_name": "Victor Patel",
-      "state": "Florida",
-      "monthly_goal": 25,
-      "gross": 21,
-      "net": 21,
-      "owed": 4,
-      "percent": 84
-    },
-    {
       "clinic_name": "Dr. Nalley",
       "state": "Florida",
       "monthly_goal": 5,
@@ -28,6 +19,15 @@
       "net": 2,
       "owed": 3,
       "percent": 40
+    },
+    {
+      "clinic_name": "Victor Patel",
+      "state": "Florida",
+      "monthly_goal": 25,
+      "gross": 22,
+      "net": 22,
+      "owed": 3,
+      "percent": 88
     },
     {
       "clinic_name": "Georgia Injury Centers",
@@ -69,10 +69,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 62,
-      "net": 62,
+      "gross": 63,
+      "net": 63,
       "owed": 0,
-      "percent": 248
+      "percent": 252
     },
     {
       "clinic_name": "Dr. Genao",
