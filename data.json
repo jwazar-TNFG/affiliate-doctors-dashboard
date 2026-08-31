@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T22:20:02",
+  "updated": "2026-08-31T08:20:00",
   "month": "August 2026",
   "data": [
     {
@@ -60,10 +60,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 70,
-      "net": 70,
+      "gross": 71,
+      "net": 71,
       "owed": 0,
-      "percent": 137
+      "percent": 139
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
