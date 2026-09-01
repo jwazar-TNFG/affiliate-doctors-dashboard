@@ -1,96 +1,96 @@
 {
-  "updated": "2026-08-31T22:20:02",
-  "month": "August 2026",
+  "updated": "2026-09-01T08:20:06",
+  "month": "September 2026",
   "data": [
-    {
-      "clinic_name": "Dr. Khan (FL)",
-      "state": "Florida",
-      "monthly_goal": 50,
-      "gross": 30,
-      "net": 30,
-      "owed": 20,
-      "percent": 60
-    },
-    {
-      "clinic_name": "Dr. Nalley",
-      "state": "Florida",
-      "monthly_goal": 5,
-      "gross": 2,
-      "net": 2,
-      "owed": 3,
-      "percent": 40
-    },
-    {
-      "clinic_name": "Victor Patel",
-      "state": "Florida",
-      "monthly_goal": 25,
-      "gross": 24,
-      "net": 24,
-      "owed": 1,
-      "percent": 96
-    },
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 283,
-      "net": 283,
-      "owed": 0,
-      "percent": 142
+      "gross": 0,
+      "net": 0,
+      "owed": 200,
+      "percent": 0
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 149,
-      "net": 149,
-      "owed": 0,
-      "percent": 149
-    },
-    {
-      "clinic_name": "Physicians Group / Path Medical",
-      "state": "Florida",
-      "monthly_goal": 0,
-      "gross": 27,
-      "net": 27,
-      "owed": 0,
+      "gross": 0,
+      "net": 0,
+      "owed": 100,
       "percent": 0
     },
     {
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 72,
-      "net": 72,
-      "owed": 0,
-      "percent": 141
+      "gross": 0,
+      "net": 0,
+      "owed": 51,
+      "percent": 0
+    },
+    {
+      "clinic_name": "Dr. Khan (FL)",
+      "state": "Florida",
+      "monthly_goal": 50,
+      "gross": 0,
+      "net": 0,
+      "owed": 50,
+      "percent": 0
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 76,
-      "net": 76,
-      "owed": 0,
-      "percent": 304
+      "gross": 0,
+      "net": 0,
+      "owed": 25,
+      "percent": 0
+    },
+    {
+      "clinic_name": "Victor Patel",
+      "state": "Florida",
+      "monthly_goal": 25,
+      "gross": 0,
+      "net": 0,
+      "owed": 25,
+      "percent": 0
     },
     {
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
-      "gross": 19,
-      "net": 19,
-      "owed": 0,
-      "percent": 127
+      "gross": 0,
+      "net": 0,
+      "owed": 15,
+      "percent": 0
+    },
+    {
+      "clinic_name": "Dr. Nalley",
+      "state": "Florida",
+      "monthly_goal": 5,
+      "gross": 0,
+      "net": 0,
+      "owed": 5,
+      "percent": 0
     },
     {
       "clinic_name": "Neal",
       "state": "Florida",
       "monthly_goal": 2,
-      "gross": 7,
-      "net": 7,
+      "gross": 0,
+      "net": 0,
+      "owed": 2,
+      "percent": 0
+    },
+    {
+      "clinic_name": "Physicians Group / Path Medical",
+      "state": "Florida",
+      "monthly_goal": 0,
+      "gross": 0,
+      "net": 0,
       "owed": 0,
-      "percent": 350
+      "percent": 0
     }
   ]
 }
