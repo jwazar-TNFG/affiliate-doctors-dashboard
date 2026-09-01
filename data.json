@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-01T16:20:02",
+  "updated": "2026-09-01T18:20:02",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 4,
-      "net": 4,
-      "owed": 196,
+      "gross": 5,
+      "net": 5,
+      "owed": 195,
       "percent": 2
     },
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 0,
-      "net": 0,
-      "owed": 51,
-      "percent": 0
+      "gross": 1,
+      "net": 1,
+      "owed": 50,
+      "percent": 2
     },
     {
       "clinic_name": "Dr. Khan (FL)",
