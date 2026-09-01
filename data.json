@@ -1,24 +1,24 @@
 {
-  "updated": "2026-09-01T12:20:05",
+  "updated": "2026-09-01T14:20:00",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 0,
-      "net": 0,
-      "owed": 200,
-      "percent": 0
+      "gross": 3,
+      "net": 3,
+      "owed": 197,
+      "percent": 2
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 0,
-      "net": 0,
-      "owed": 100,
-      "percent": 0
+      "gross": 4,
+      "net": 4,
+      "owed": 96,
+      "percent": 4
     },
     {
       "clinic_name": "Arrowhead Clinics",
@@ -39,15 +39,6 @@
       "percent": 0
     },
     {
-      "clinic_name": "Hess Orthopedics (NJ)",
-      "state": "New Jersey",
-      "monthly_goal": 25,
-      "gross": 0,
-      "net": 0,
-      "owed": 25,
-      "percent": 0
-    },
-    {
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
@@ -55,6 +46,15 @@
       "net": 0,
       "owed": 25,
       "percent": 0
+    },
+    {
+      "clinic_name": "Hess Orthopedics (NJ)",
+      "state": "New Jersey",
+      "monthly_goal": 25,
+      "gross": 1,
+      "net": 1,
+      "owed": 24,
+      "percent": 4
     },
     {
       "clinic_name": "Dr. Genao",
