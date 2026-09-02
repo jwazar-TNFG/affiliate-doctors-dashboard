@@ -1,24 +1,24 @@
 {
-  "updated": "2026-09-02T10:20:00",
+  "updated": "2026-09-02T12:20:02",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 7,
-      "net": 7,
-      "owed": 193,
+      "gross": 8,
+      "net": 8,
+      "owed": 192,
       "percent": 4
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 5,
-      "net": 5,
-      "owed": 95,
-      "percent": 5
+      "gross": 6,
+      "net": 6,
+      "owed": 94,
+      "percent": 6
     },
     {
       "clinic_name": "Arrowhead Clinics",
