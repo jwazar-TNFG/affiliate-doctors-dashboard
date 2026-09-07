@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T12:20:05",
+  "updated": "2026-09-07T14:20:02",
   "month": "September 2026",
   "data": [
     {
@@ -60,10 +60,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 14,
-      "net": 14,
-      "owed": 11,
-      "percent": 56
+      "gross": 15,
+      "net": 15,
+      "owed": 10,
+      "percent": 60
     },
     {
       "clinic_name": "Dr. Nalley",
@@ -87,8 +87,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 3,
-      "net": 3,
+      "gross": 4,
+      "net": 4,
       "owed": 0,
       "percent": 0
     }
