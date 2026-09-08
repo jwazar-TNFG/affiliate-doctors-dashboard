@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T18:20:01",
+  "updated": "2026-09-07T20:20:00",
   "month": "September 2026",
   "data": [
     {
@@ -33,10 +33,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 14,
-      "net": 14,
-      "owed": 37,
-      "percent": 27
+      "gross": 15,
+      "net": 15,
+      "owed": 36,
+      "percent": 29
     },
     {
       "clinic_name": "Victor Patel",
