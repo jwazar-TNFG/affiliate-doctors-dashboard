@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T08:20:02",
+  "updated": "2026-09-09T10:20:00",
   "month": "September 2026",
   "data": [
     {
@@ -33,10 +33,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 21,
-      "net": 21,
-      "owed": 30,
-      "percent": 41
+      "gross": 22,
+      "net": 22,
+      "owed": 29,
+      "percent": 43
     },
     {
       "clinic_name": "Victor Patel",
@@ -60,10 +60,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 18,
-      "net": 18,
-      "owed": 7,
-      "percent": 72
+      "gross": 19,
+      "net": 19,
+      "owed": 6,
+      "percent": 76
     },
     {
       "clinic_name": "Dr. Nalley",
