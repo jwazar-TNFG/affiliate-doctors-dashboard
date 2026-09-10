@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-10T12:20:03",
+  "updated": "2026-09-10T14:20:01",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 64,
-      "net": 64,
-      "owed": 136,
+      "gross": 65,
+      "net": 65,
+      "owed": 135,
       "percent": 32
     },
     {
@@ -30,15 +30,6 @@
       "percent": 18
     },
     {
-      "clinic_name": "Arrowhead Clinics",
-      "state": "Georgia",
-      "monthly_goal": 51,
-      "gross": 26,
-      "net": 26,
-      "owed": 25,
-      "percent": 51
-    },
-    {
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
@@ -46,6 +37,15 @@
       "net": 1,
       "owed": 24,
       "percent": 4
+    },
+    {
+      "clinic_name": "Arrowhead Clinics",
+      "state": "Georgia",
+      "monthly_goal": 51,
+      "gross": 28,
+      "net": 28,
+      "owed": 23,
+      "percent": 55
     },
     {
       "clinic_name": "Dr. Genao",
