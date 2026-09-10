@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T22:20:04",
+  "updated": "2026-09-10T08:20:03",
   "month": "September 2026",
   "data": [
     {
@@ -57,15 +57,6 @@
       "percent": 0
     },
     {
-      "clinic_name": "Hess Orthopedics (NJ)",
-      "state": "New Jersey",
-      "monthly_goal": 25,
-      "gross": 20,
-      "net": 20,
-      "owed": 5,
-      "percent": 80
-    },
-    {
       "clinic_name": "Dr. Nalley",
       "state": "Florida",
       "monthly_goal": 5,
@@ -73,6 +64,15 @@
       "net": 0,
       "owed": 5,
       "percent": 0
+    },
+    {
+      "clinic_name": "Hess Orthopedics (NJ)",
+      "state": "New Jersey",
+      "monthly_goal": 25,
+      "gross": 21,
+      "net": 21,
+      "owed": 4,
+      "percent": 84
     },
     {
       "clinic_name": "Neal",
