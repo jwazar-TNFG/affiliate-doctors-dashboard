@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T14:20:01",
+  "updated": "2026-09-10T16:20:01",
   "month": "September 2026",
   "data": [
     {
@@ -30,22 +30,22 @@
       "percent": 18
     },
     {
-      "clinic_name": "Victor Patel",
-      "state": "Florida",
-      "monthly_goal": 25,
-      "gross": 1,
-      "net": 1,
-      "owed": 24,
-      "percent": 4
-    },
-    {
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 28,
-      "net": 28,
-      "owed": 23,
-      "percent": 55
+      "gross": 29,
+      "net": 29,
+      "owed": 22,
+      "percent": 57
+    },
+    {
+      "clinic_name": "Victor Patel",
+      "state": "Florida",
+      "monthly_goal": 25,
+      "gross": 4,
+      "net": 4,
+      "owed": 21,
+      "percent": 16
     },
     {
       "clinic_name": "Dr. Genao",
@@ -87,8 +87,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 7,
-      "net": 7,
+      "gross": 8,
+      "net": 8,
       "owed": 0,
       "percent": 0
     }
