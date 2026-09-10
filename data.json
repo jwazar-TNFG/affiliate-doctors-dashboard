@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T08:20:03",
+  "updated": "2026-09-10T10:20:02",
   "month": "September 2026",
   "data": [
     {
@@ -42,10 +42,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 0,
-      "net": 0,
-      "owed": 25,
-      "percent": 0
+      "gross": 1,
+      "net": 1,
+      "owed": 24,
+      "percent": 4
     },
     {
       "clinic_name": "Dr. Genao",
