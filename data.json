@@ -1,24 +1,24 @@
 {
-  "updated": "2026-09-11T16:20:00",
+  "updated": "2026-09-11T18:20:02",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 74,
-      "net": 74,
-      "owed": 126,
-      "percent": 37
+      "gross": 79,
+      "net": 79,
+      "owed": 121,
+      "percent": 40
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 36,
-      "net": 36,
-      "owed": 64,
-      "percent": 36
+      "gross": 39,
+      "net": 39,
+      "owed": 61,
+      "percent": 39
     },
     {
       "clinic_name": "Dr. Khan (FL)",
@@ -33,10 +33,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 29,
-      "net": 29,
-      "owed": 22,
-      "percent": 57
+      "gross": 30,
+      "net": 30,
+      "owed": 21,
+      "percent": 59
     },
     {
       "clinic_name": "Victor Patel",
