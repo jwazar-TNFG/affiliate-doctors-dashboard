@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T12:20:02",
+  "updated": "2026-09-13T14:20:00",
   "month": "September 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 41,
-      "net": 41,
-      "owed": 59,
-      "percent": 41
+      "gross": 42,
+      "net": 42,
+      "owed": 58,
+      "percent": 42
     },
     {
       "clinic_name": "Dr. Khan (FL)",
@@ -66,15 +66,6 @@
       "percent": 0
     },
     {
-      "clinic_name": "Hess Orthopedics (NJ)",
-      "state": "New Jersey",
-      "monthly_goal": 25,
-      "gross": 24,
-      "net": 24,
-      "owed": 1,
-      "percent": 96
-    },
-    {
       "clinic_name": "Neal",
       "state": "Florida",
       "monthly_goal": 2,
@@ -91,6 +82,15 @@
       "net": 18,
       "owed": 0,
       "percent": 0
+    },
+    {
+      "clinic_name": "Hess Orthopedics (NJ)",
+      "state": "New Jersey",
+      "monthly_goal": 25,
+      "gross": 25,
+      "net": 25,
+      "owed": 0,
+      "percent": 100
     }
   ]
 }
