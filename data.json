@@ -1,24 +1,24 @@
 {
-  "updated": "2026-09-13T18:20:04",
+  "updated": "2026-09-13T20:20:01",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 96,
-      "net": 96,
-      "owed": 104,
+      "gross": 97,
+      "net": 97,
+      "owed": 103,
       "percent": 48
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 46,
-      "net": 46,
-      "owed": 54,
-      "percent": 46
+      "gross": 47,
+      "net": 47,
+      "owed": 53,
+      "percent": 47
     },
     {
       "clinic_name": "Dr. Khan (FL)",
