@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T16:20:00",
+  "updated": "2026-09-14T18:20:03",
   "month": "September 2026",
   "data": [
     {
@@ -33,10 +33,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 8,
-      "net": 8,
-      "owed": 17,
-      "percent": 32
+      "gross": 9,
+      "net": 9,
+      "owed": 16,
+      "percent": 36
     },
     {
       "clinic_name": "Arrowhead Clinics",
@@ -78,10 +78,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 26,
-      "net": 26,
+      "gross": 27,
+      "net": 27,
       "owed": 0,
-      "percent": 104
+      "percent": 108
     },
     {
       "clinic_name": "Neal",
