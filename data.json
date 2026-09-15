@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-15T16:20:01",
+  "updated": "2026-09-15T18:20:03",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 109,
-      "net": 109,
-      "owed": 91,
-      "percent": 55
+      "gross": 112,
+      "net": 112,
+      "owed": 88,
+      "percent": 56
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
@@ -33,10 +33,10 @@
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
-      "gross": 2,
-      "net": 2,
-      "owed": 13,
-      "percent": 13
+      "gross": 3,
+      "net": 3,
+      "owed": 12,
+      "percent": 20
     },
     {
       "clinic_name": "Victor Patel",
