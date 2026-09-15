@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T10:20:01",
+  "updated": "2026-09-15T12:20:01",
   "month": "September 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 51,
-      "net": 51,
-      "owed": 49,
-      "percent": 51
+      "gross": 53,
+      "net": 53,
+      "owed": 47,
+      "percent": 53
     },
     {
       "clinic_name": "Dr. Khan (FL)",
@@ -69,8 +69,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 23,
-      "net": 23,
+      "gross": 24,
+      "net": 24,
       "owed": 0,
       "percent": 0
     },
