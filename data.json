@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-17T12:20:02",
+  "updated": "2026-09-17T14:20:01",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 124,
-      "net": 124,
-      "owed": 76,
+      "gross": 125,
+      "net": 125,
+      "owed": 75,
       "percent": 62
     },
     {
@@ -60,10 +60,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 48,
-      "net": 48,
-      "owed": 3,
-      "percent": 94
+      "gross": 50,
+      "net": 50,
+      "owed": 1,
+      "percent": 98
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
