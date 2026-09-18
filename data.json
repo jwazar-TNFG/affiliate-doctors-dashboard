@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-18T12:20:00",
+  "updated": "2026-09-18T14:20:03",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 136,
-      "net": 136,
-      "owed": 64,
+      "gross": 137,
+      "net": 137,
+      "owed": 63,
       "percent": 68
     },
     {
@@ -78,10 +78,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 50,
-      "net": 50,
+      "gross": 52,
+      "net": 52,
       "owed": 0,
-      "percent": 200
+      "percent": 208
     },
     {
       "clinic_name": "Neal",
