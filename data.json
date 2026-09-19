@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-19T10:20:02",
+  "updated": "2026-09-19T12:20:03",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 148,
-      "net": 148,
-      "owed": 52,
+      "gross": 149,
+      "net": 149,
+      "owed": 51,
       "percent": 74
     },
     {
@@ -42,10 +42,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 16,
-      "net": 16,
-      "owed": 9,
-      "percent": 64
+      "gross": 17,
+      "net": 17,
+      "owed": 8,
+      "percent": 68
     },
     {
       "clinic_name": "Dr. Nalley",
