@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-18T18:20:04",
+  "updated": "2026-09-18T20:20:04",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 144,
-      "net": 144,
-      "owed": 56,
-      "percent": 72
+      "gross": 147,
+      "net": 147,
+      "owed": 53,
+      "percent": 74
     },
     {
       "clinic_name": "Dr. Khan (FL)",
@@ -60,8 +60,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 34,
-      "net": 34,
+      "gross": 35,
+      "net": 35,
       "owed": 0,
       "percent": 0
     },
