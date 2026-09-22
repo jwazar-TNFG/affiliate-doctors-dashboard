@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T08:20:02",
+  "updated": "2026-09-22T10:20:00",
   "month": "September 2026",
   "data": [
     {
@@ -42,10 +42,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 93,
-      "net": 93,
-      "owed": 7,
-      "percent": 93
+      "gross": 94,
+      "net": 94,
+      "owed": 6,
+      "percent": 94
     },
     {
       "clinic_name": "Dr. Nalley",
@@ -60,8 +60,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 39,
-      "net": 39,
+      "gross": 40,
+      "net": 40,
       "owed": 0,
       "percent": 0
     },
@@ -87,10 +87,10 @@
       "clinic_name": "Neal",
       "state": "Florida",
       "monthly_goal": 2,
-      "gross": 6,
-      "net": 6,
+      "gross": 8,
+      "net": 8,
       "owed": 0,
-      "percent": 300
+      "percent": 400
     }
   ]
 }
