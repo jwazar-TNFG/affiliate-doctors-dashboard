@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T08:20:02",
+  "updated": "2026-09-23T10:20:00",
   "month": "September 2026",
   "data": [
     {
@@ -15,19 +15,19 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 176,
-      "net": 176,
-      "owed": 24,
+      "gross": 177,
+      "net": 177,
+      "owed": 23,
       "percent": 88
     },
     {
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
-      "gross": 5,
-      "net": 5,
-      "owed": 10,
-      "percent": 33
+      "gross": 6,
+      "net": 6,
+      "owed": 9,
+      "percent": 40
     },
     {
       "clinic_name": "Victor Patel",
