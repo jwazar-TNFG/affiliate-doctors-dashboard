@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T12:20:03",
+  "updated": "2026-09-23T14:20:00",
   "month": "September 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 177,
-      "net": 177,
-      "owed": 23,
-      "percent": 88
+      "gross": 178,
+      "net": 178,
+      "owed": 22,
+      "percent": 89
     },
     {
       "clinic_name": "Dr. Genao",
@@ -60,8 +60,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 49,
-      "net": 49,
+      "gross": 50,
+      "net": 50,
       "owed": 0,
       "percent": 0
     },
