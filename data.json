@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T10:20:00",
+  "updated": "2026-09-23T12:20:03",
   "month": "September 2026",
   "data": [
     {
@@ -78,10 +78,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 67,
-      "net": 67,
+      "gross": 68,
+      "net": 68,
       "owed": 0,
-      "percent": 268
+      "percent": 272
     },
     {
       "clinic_name": "Neal",
