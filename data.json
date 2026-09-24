@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T18:20:00",
+  "updated": "2026-09-23T20:20:00",
   "month": "September 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 185,
-      "net": 185,
-      "owed": 15,
-      "percent": 92
+      "gross": 189,
+      "net": 189,
+      "owed": 11,
+      "percent": 94
     },
     {
       "clinic_name": "Dr. Genao",
@@ -51,10 +51,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 109,
-      "net": 109,
+      "gross": 112,
+      "net": 112,
       "owed": 0,
-      "percent": 109
+      "percent": 112
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
@@ -69,19 +69,19 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 62,
-      "net": 62,
+      "gross": 63,
+      "net": 63,
       "owed": 0,
-      "percent": 122
+      "percent": 124
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 68,
-      "net": 68,
+      "gross": 69,
+      "net": 69,
       "owed": 0,
-      "percent": 272
+      "percent": 276
     },
     {
       "clinic_name": "Neal",
