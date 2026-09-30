@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-30T08:20:03",
+  "updated": "2026-09-30T10:20:00",
   "month": "September 2026",
   "data": [
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 24,
-      "net": 24,
-      "owed": 26,
-      "percent": 48
+      "gross": 25,
+      "net": 25,
+      "owed": 25,
+      "percent": 50
     },
     {
       "clinic_name": "Dr. Genao",
