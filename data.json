@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:20:00",
+  "updated": "2026-10-01T20:20:04",
   "month": "October 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 1,
-      "net": 1,
-      "owed": 99,
-      "percent": 1
+      "gross": 4,
+      "net": 4,
+      "owed": 96,
+      "percent": 4
     },
     {
       "clinic_name": "Arrowhead Clinics",
@@ -33,19 +33,10 @@
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 1,
-      "net": 1,
-      "owed": 49,
-      "percent": 2
-    },
-    {
-      "clinic_name": "Victor Patel",
-      "state": "Florida",
-      "monthly_goal": 25,
-      "gross": 0,
-      "net": 0,
-      "owed": 25,
-      "percent": 0
+      "gross": 2,
+      "net": 2,
+      "owed": 48,
+      "percent": 4
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
@@ -55,6 +46,15 @@
       "net": 1,
       "owed": 24,
       "percent": 4
+    },
+    {
+      "clinic_name": "Victor Patel",
+      "state": "Florida",
+      "monthly_goal": 25,
+      "gross": 2,
+      "net": 2,
+      "owed": 23,
+      "percent": 8
     },
     {
       "clinic_name": "Dr. Genao",
@@ -87,8 +87,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 2,
-      "net": 2,
+      "gross": 3,
+      "net": 3,
       "owed": 0,
       "percent": 0
     }
