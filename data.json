@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T22:20:04",
+  "updated": "2026-10-02T08:20:00",
   "month": "October 2026",
   "data": [
     {
@@ -42,10 +42,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 1,
-      "net": 1,
-      "owed": 24,
-      "percent": 4
+      "gross": 2,
+      "net": 2,
+      "owed": 23,
+      "percent": 8
     },
     {
       "clinic_name": "Victor Patel",
@@ -60,10 +60,10 @@
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
-      "gross": 0,
-      "net": 0,
-      "owed": 15,
-      "percent": 0
+      "gross": 2,
+      "net": 2,
+      "owed": 13,
+      "percent": 13
     },
     {
       "clinic_name": "Dr. Nalley",
