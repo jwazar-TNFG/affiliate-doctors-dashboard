@@ -1,33 +1,24 @@
 {
-  "updated": "2026-10-05T16:20:02",
+  "updated": "2026-10-05T18:20:00",
   "month": "October 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 42,
-      "net": 42,
-      "owed": 158,
-      "percent": 21
+      "gross": 44,
+      "net": 44,
+      "owed": 156,
+      "percent": 22
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 21,
-      "net": 21,
-      "owed": 79,
-      "percent": 21
-    },
-    {
-      "clinic_name": "Dr. Khan (FL)",
-      "state": "Florida",
-      "monthly_goal": 50,
-      "gross": 7,
-      "net": 7,
-      "owed": 43,
-      "percent": 14
+      "gross": 31,
+      "net": 31,
+      "owed": 69,
+      "percent": 31
     },
     {
       "clinic_name": "Arrowhead Clinics",
@@ -39,22 +30,31 @@
       "percent": 18
     },
     {
-      "clinic_name": "Victor Patel",
+      "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
-      "monthly_goal": 25,
-      "gross": 2,
-      "net": 2,
-      "owed": 23,
-      "percent": 8
+      "monthly_goal": 50,
+      "gross": 8,
+      "net": 8,
+      "owed": 42,
+      "percent": 16
     },
     {
-      "clinic_name": "Hess Orthopedics (NJ)",
-      "state": "New Jersey",
+      "clinic_name": "Victor Patel",
+      "state": "Florida",
       "monthly_goal": 25,
       "gross": 6,
       "net": 6,
       "owed": 19,
       "percent": 24
+    },
+    {
+      "clinic_name": "Hess Orthopedics (NJ)",
+      "state": "New Jersey",
+      "monthly_goal": 25,
+      "gross": 9,
+      "net": 9,
+      "owed": 16,
+      "percent": 36
     },
     {
       "clinic_name": "Dr. Genao",
@@ -87,8 +87,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 12,
-      "net": 12,
+      "gross": 14,
+      "net": 14,
       "owed": 0,
       "percent": 0
     }
