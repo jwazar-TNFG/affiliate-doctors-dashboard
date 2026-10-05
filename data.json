@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:20:03",
+  "updated": "2026-10-05T16:20:02",
   "month": "October 2026",
   "data": [
     {
@@ -21,15 +21,6 @@
       "percent": 21
     },
     {
-      "clinic_name": "Arrowhead Clinics",
-      "state": "Georgia",
-      "monthly_goal": 51,
-      "gross": 8,
-      "net": 8,
-      "owed": 43,
-      "percent": 16
-    },
-    {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
@@ -37,6 +28,15 @@
       "net": 7,
       "owed": 43,
       "percent": 14
+    },
+    {
+      "clinic_name": "Arrowhead Clinics",
+      "state": "Georgia",
+      "monthly_goal": 51,
+      "gross": 9,
+      "net": 9,
+      "owed": 42,
+      "percent": 18
     },
     {
       "clinic_name": "Victor Patel",
@@ -51,10 +51,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 5,
-      "net": 5,
-      "owed": 20,
-      "percent": 20
+      "gross": 6,
+      "net": 6,
+      "owed": 19,
+      "percent": 24
     },
     {
       "clinic_name": "Dr. Genao",
