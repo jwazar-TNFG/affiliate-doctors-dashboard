@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:20:02",
+  "updated": "2026-10-06T10:20:02",
   "month": "October 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 31,
-      "net": 31,
-      "owed": 69,
-      "percent": 31
+      "gross": 32,
+      "net": 32,
+      "owed": 68,
+      "percent": 32
     },
     {
       "clinic_name": "Arrowhead Clinics",
