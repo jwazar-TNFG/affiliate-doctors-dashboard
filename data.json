@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T14:20:00",
+  "updated": "2026-10-07T16:20:00",
   "month": "October 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 39,
-      "net": 39,
-      "owed": 61,
-      "percent": 39
+      "gross": 40,
+      "net": 40,
+      "owed": 60,
+      "percent": 40
     },
     {
       "clinic_name": "Arrowhead Clinics",
@@ -87,8 +87,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 17,
-      "net": 17,
+      "gross": 18,
+      "net": 18,
       "owed": 0,
       "percent": 0
     }
