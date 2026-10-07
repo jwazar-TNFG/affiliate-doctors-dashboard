@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-07T08:20:02",
+  "updated": "2026-10-07T10:20:00",
   "month": "October 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 55,
-      "net": 55,
-      "owed": 145,
+      "gross": 56,
+      "net": 56,
+      "owed": 144,
       "percent": 28
     },
     {
@@ -21,15 +21,6 @@
       "percent": 39
     },
     {
-      "clinic_name": "Dr. Khan (FL)",
-      "state": "Florida",
-      "monthly_goal": 50,
-      "gross": 10,
-      "net": 10,
-      "owed": 40,
-      "percent": 20
-    },
-    {
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
@@ -37,6 +28,15 @@
       "net": 12,
       "owed": 39,
       "percent": 24
+    },
+    {
+      "clinic_name": "Dr. Khan (FL)",
+      "state": "Florida",
+      "monthly_goal": 50,
+      "gross": 13,
+      "net": 13,
+      "owed": 37,
+      "percent": 26
     },
     {
       "clinic_name": "Victor Patel",
