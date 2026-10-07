@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-07T10:20:00",
+  "updated": "2026-10-07T12:20:04",
   "month": "October 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 56,
-      "net": 56,
-      "owed": 144,
+      "gross": 57,
+      "net": 57,
+      "owed": 143,
       "percent": 28
     },
     {
@@ -48,15 +48,6 @@
       "percent": 28
     },
     {
-      "clinic_name": "Hess Orthopedics (NJ)",
-      "state": "New Jersey",
-      "monthly_goal": 25,
-      "gross": 11,
-      "net": 11,
-      "owed": 14,
-      "percent": 44
-    },
-    {
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
@@ -64,6 +55,15 @@
       "net": 2,
       "owed": 13,
       "percent": 13
+    },
+    {
+      "clinic_name": "Hess Orthopedics (NJ)",
+      "state": "New Jersey",
+      "monthly_goal": 25,
+      "gross": 13,
+      "net": 13,
+      "owed": 12,
+      "percent": 52
     },
     {
       "clinic_name": "Dr. Nalley",
@@ -87,8 +87,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 16,
-      "net": 16,
+      "gross": 17,
+      "net": 17,
       "owed": 0,
       "percent": 0
     }
