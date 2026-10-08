@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T22:20:04",
+  "updated": "2026-10-08T08:20:00",
   "month": "October 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 45,
-      "net": 45,
-      "owed": 55,
-      "percent": 45
+      "gross": 47,
+      "net": 47,
+      "owed": 53,
+      "percent": 47
     },
     {
       "clinic_name": "Arrowhead Clinics",
@@ -60,10 +60,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 17,
-      "net": 17,
-      "owed": 8,
-      "percent": 68
+      "gross": 20,
+      "net": 20,
+      "owed": 5,
+      "percent": 80
     },
     {
       "clinic_name": "Dr. Nalley",
