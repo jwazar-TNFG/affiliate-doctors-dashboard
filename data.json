@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:20:00",
+  "updated": "2026-10-08T16:20:02",
   "month": "October 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 47,
-      "net": 47,
-      "owed": 53,
-      "percent": 47
+      "gross": 49,
+      "net": 49,
+      "owed": 51,
+      "percent": 49
     },
     {
       "clinic_name": "Arrowhead Clinics",
@@ -42,10 +42,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 7,
-      "net": 7,
-      "owed": 18,
-      "percent": 28
+      "gross": 8,
+      "net": 8,
+      "owed": 17,
+      "percent": 32
     },
     {
       "clinic_name": "Dr. Genao",
