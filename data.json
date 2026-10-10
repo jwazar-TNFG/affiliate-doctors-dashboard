@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T22:20:00",
+  "updated": "2026-10-10T08:20:01",
   "month": "October 2026",
   "data": [
     {
@@ -33,10 +33,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 21,
-      "net": 21,
-      "owed": 30,
-      "percent": 41
+      "gross": 22,
+      "net": 22,
+      "owed": 29,
+      "percent": 43
     },
     {
       "clinic_name": "Dr. Genao",
