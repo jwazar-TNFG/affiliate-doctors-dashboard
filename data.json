@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-13T10:20:00",
+  "updated": "2026-10-13T12:20:00",
   "month": "October 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 104,
-      "net": 104,
-      "owed": 96,
+      "gross": 105,
+      "net": 105,
+      "owed": 95,
       "percent": 52
     },
     {
@@ -30,15 +30,6 @@
       "percent": 51
     },
     {
-      "clinic_name": "Illinois Orthopedic Network (ION)",
-      "state": "Illinois",
-      "monthly_goal": 100,
-      "gross": 87,
-      "net": 87,
-      "owed": 13,
-      "percent": 87
-    },
-    {
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
@@ -46,6 +37,15 @@
       "net": 2,
       "owed": 13,
       "percent": 13
+    },
+    {
+      "clinic_name": "Illinois Orthopedic Network (ION)",
+      "state": "Illinois",
+      "monthly_goal": 100,
+      "gross": 88,
+      "net": 88,
+      "owed": 12,
+      "percent": 88
     },
     {
       "clinic_name": "Victor Patel",
@@ -78,8 +78,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 27,
-      "net": 27,
+      "gross": 29,
+      "net": 29,
       "owed": 0,
       "percent": 0
     },
@@ -87,10 +87,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 40,
-      "net": 40,
+      "gross": 42,
+      "net": 42,
       "owed": 0,
-      "percent": 160
+      "percent": 168
     }
   ]
 }
