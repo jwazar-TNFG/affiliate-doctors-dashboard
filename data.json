@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T12:20:00",
+  "updated": "2026-10-13T14:20:03",
   "month": "October 2026",
   "data": [
     {
@@ -42,10 +42,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 88,
-      "net": 88,
-      "owed": 12,
-      "percent": 88
+      "gross": 89,
+      "net": 89,
+      "owed": 11,
+      "percent": 89
     },
     {
       "clinic_name": "Victor Patel",
@@ -78,8 +78,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 29,
-      "net": 29,
+      "gross": 30,
+      "net": 30,
       "owed": 0,
       "percent": 0
     },
