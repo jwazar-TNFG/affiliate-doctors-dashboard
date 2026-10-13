@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T16:20:02",
+  "updated": "2026-10-13T18:20:00",
   "month": "October 2026",
   "data": [
     {
@@ -39,15 +39,6 @@
       "percent": 13
     },
     {
-      "clinic_name": "Illinois Orthopedic Network (ION)",
-      "state": "Illinois",
-      "monthly_goal": 100,
-      "gross": 89,
-      "net": 89,
-      "owed": 11,
-      "percent": 89
-    },
-    {
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
@@ -55,6 +46,15 @@
       "net": 15,
       "owed": 10,
       "percent": 60
+    },
+    {
+      "clinic_name": "Illinois Orthopedic Network (ION)",
+      "state": "Illinois",
+      "monthly_goal": 100,
+      "gross": 92,
+      "net": 92,
+      "owed": 8,
+      "percent": 92
     },
     {
       "clinic_name": "Dr. Nalley",
