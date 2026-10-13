@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T22:20:03",
+  "updated": "2026-10-13T08:20:05",
   "month": "October 2026",
   "data": [
     {
@@ -33,10 +33,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 85,
-      "net": 85,
-      "owed": 15,
-      "percent": 85
+      "gross": 86,
+      "net": 86,
+      "owed": 14,
+      "percent": 86
     },
     {
       "clinic_name": "Dr. Genao",
