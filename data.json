@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T22:20:00",
+  "updated": "2026-10-14T08:20:04",
   "month": "October 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 30,
-      "net": 30,
-      "owed": 21,
-      "percent": 59
+      "gross": 32,
+      "net": 32,
+      "owed": 19,
+      "percent": 63
     },
     {
       "clinic_name": "Dr. Genao",
@@ -69,10 +69,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 104,
-      "net": 104,
+      "gross": 105,
+      "net": 105,
       "owed": 0,
-      "percent": 104
+      "percent": 105
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
