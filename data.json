@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-15T12:20:03",
+  "updated": "2026-10-15T14:20:00",
   "month": "October 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 118,
-      "net": 118,
-      "owed": 82,
-      "percent": 59
+      "gross": 119,
+      "net": 119,
+      "owed": 81,
+      "percent": 60
     },
     {
       "clinic_name": "Dr. Khan (FL)",
