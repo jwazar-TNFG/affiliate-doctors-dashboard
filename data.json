@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:20:02",
+  "updated": "2026-10-16T10:20:04",
   "month": "October 2026",
   "data": [
     {
@@ -33,10 +33,10 @@
       "clinic_name": "Dr. Genao",
       "state": "Florida",
       "monthly_goal": 15,
-      "gross": 4,
-      "net": 4,
-      "owed": 11,
-      "percent": 27
+      "gross": 5,
+      "net": 5,
+      "owed": 10,
+      "percent": 33
     },
     {
       "clinic_name": "Victor Patel",
@@ -69,8 +69,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 42,
-      "net": 42,
+      "gross": 43,
+      "net": 43,
       "owed": 0,
       "percent": 0
     },
