@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-17T16:20:01",
+  "updated": "2026-10-17T18:20:01",
   "month": "October 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 139,
-      "net": 139,
-      "owed": 61,
+      "gross": 140,
+      "net": 140,
+      "owed": 60,
       "percent": 70
     },
     {
@@ -42,10 +42,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 42,
-      "net": 42,
-      "owed": 9,
-      "percent": 82
+      "gross": 43,
+      "net": 43,
+      "owed": 8,
+      "percent": 84
     },
     {
       "clinic_name": "Dr. Nalley",
