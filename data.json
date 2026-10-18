@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T22:20:03",
+  "updated": "2026-10-18T08:20:03",
   "month": "October 2026",
   "data": [
     {
@@ -39,15 +39,6 @@
       "percent": 60
     },
     {
-      "clinic_name": "Arrowhead Clinics",
-      "state": "Georgia",
-      "monthly_goal": 51,
-      "gross": 46,
-      "net": 46,
-      "owed": 5,
-      "percent": 90
-    },
-    {
       "clinic_name": "Dr. Nalley",
       "state": "Florida",
       "monthly_goal": 5,
@@ -55,6 +46,15 @@
       "net": 0,
       "owed": 5,
       "percent": 0
+    },
+    {
+      "clinic_name": "Arrowhead Clinics",
+      "state": "Georgia",
+      "monthly_goal": 51,
+      "gross": 47,
+      "net": 47,
+      "owed": 4,
+      "percent": 92
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
