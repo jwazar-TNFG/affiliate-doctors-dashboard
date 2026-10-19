@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-19T10:20:03",
+  "updated": "2026-10-19T12:20:05",
   "month": "October 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 149,
-      "net": 149,
-      "owed": 51,
-      "percent": 74
+      "gross": 151,
+      "net": 151,
+      "owed": 49,
+      "percent": 76
     },
     {
       "clinic_name": "Dr. Khan (FL)",
@@ -69,19 +69,19 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 52,
-      "net": 52,
+      "gross": 54,
+      "net": 54,
       "owed": 0,
-      "percent": 102
+      "percent": 106
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 57,
-      "net": 57,
+      "gross": 62,
+      "net": 62,
       "owed": 0,
-      "percent": 228
+      "percent": 248
     },
     {
       "clinic_name": "Neal",
