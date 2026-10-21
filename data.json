@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:20:00",
+  "updated": "2026-10-20T20:20:00",
   "month": "October 2026",
   "data": [
     {
@@ -33,10 +33,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 19,
-      "net": 19,
-      "owed": 6,
-      "percent": 76
+      "gross": 20,
+      "net": 20,
+      "owed": 5,
+      "percent": 80
     },
     {
       "clinic_name": "Dr. Nalley",
@@ -51,10 +51,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 168,
-      "net": 168,
+      "gross": 165,
+      "net": 165,
       "owed": 0,
-      "percent": 168
+      "percent": 165
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
