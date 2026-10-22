@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T20:20:05",
+  "updated": "2026-10-21T22:20:05",
   "month": "October 2026",
   "data": [
     {
@@ -87,10 +87,10 @@
       "clinic_name": "Neal",
       "state": "Florida",
       "monthly_goal": 2,
-      "gross": 6,
-      "net": 6,
+      "gross": 7,
+      "net": 7,
       "owed": 0,
-      "percent": 300
+      "percent": 350
     }
   ]
 }
