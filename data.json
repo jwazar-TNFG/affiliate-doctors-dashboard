@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:20:01",
+  "updated": "2026-10-23T12:20:04",
   "month": "October 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 20,
-      "net": 20,
-      "owed": 5,
-      "percent": 80
+      "gross": 21,
+      "net": 21,
+      "owed": 4,
+      "percent": 84
     },
     {
       "clinic_name": "Georgia Injury Centers",
@@ -60,8 +60,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 76,
-      "net": 76,
+      "gross": 77,
+      "net": 77,
       "owed": 0,
       "percent": 0
     },
