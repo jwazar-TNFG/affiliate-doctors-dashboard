@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T22:20:04",
+  "updated": "2026-10-27T08:20:05",
   "month": "October 2026",
   "data": [
     {
@@ -51,10 +51,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 231,
-      "net": 231,
+      "gross": 232,
+      "net": 232,
       "owed": 0,
-      "percent": 231
+      "percent": 232
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
@@ -69,10 +69,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 87,
-      "net": 87,
+      "gross": 88,
+      "net": 88,
       "owed": 0,
-      "percent": 171
+      "percent": 173
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
