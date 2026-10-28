@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:20:00",
+  "updated": "2026-10-28T08:20:02",
   "month": "October 2026",
   "data": [
     {
@@ -60,8 +60,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 83,
-      "net": 83,
+      "gross": 84,
+      "net": 84,
       "owed": 0,
       "percent": 0
     },
@@ -78,10 +78,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 127,
-      "net": 127,
+      "gross": 128,
+      "net": 128,
       "owed": 0,
-      "percent": 508
+      "percent": 512
     },
     {
       "clinic_name": "Neal",
