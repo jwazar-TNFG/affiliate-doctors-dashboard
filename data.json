@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:20:02",
+  "updated": "2026-10-30T08:20:04",
   "month": "October 2026",
   "data": [
     {
@@ -21,20 +21,11 @@
       "percent": 60
     },
     {
-      "clinic_name": "Victor Patel",
-      "state": "Florida",
-      "monthly_goal": 25,
-      "gross": 24,
-      "net": 24,
-      "owed": 1,
-      "percent": 96
-    },
-    {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 299,
-      "net": 299,
+      "gross": 301,
+      "net": 301,
       "owed": 0,
       "percent": 150
     },
@@ -91,6 +82,15 @@
       "net": 7,
       "owed": 0,
       "percent": 350
+    },
+    {
+      "clinic_name": "Victor Patel",
+      "state": "Florida",
+      "monthly_goal": 25,
+      "gross": 26,
+      "net": 26,
+      "owed": 0,
+      "percent": 104
     }
   ]
 }
