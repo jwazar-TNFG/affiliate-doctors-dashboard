@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T08:20:04",
+  "updated": "2026-10-30T10:20:02",
   "month": "October 2026",
   "data": [
     {
@@ -78,10 +78,10 @@
       "clinic_name": "Neal",
       "state": "Florida",
       "monthly_goal": 2,
-      "gross": 7,
-      "net": 7,
+      "gross": 8,
+      "net": 8,
       "owed": 0,
-      "percent": 350
+      "percent": 400
     },
     {
       "clinic_name": "Victor Patel",
