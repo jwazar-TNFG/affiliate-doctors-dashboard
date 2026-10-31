@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:20:03",
+  "updated": "2026-10-31T18:20:00",
   "month": "October 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 280,
-      "net": 280,
+      "gross": 282,
+      "net": 282,
       "owed": 0,
-      "percent": 280
+      "percent": 282
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
