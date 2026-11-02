@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-02T12:20:05",
+  "updated": "2026-11-02T14:20:03",
   "month": "November 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 7,
-      "net": 7,
-      "owed": 193,
+      "gross": 8,
+      "net": 8,
+      "owed": 192,
       "percent": 4
     },
     {
@@ -87,8 +87,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 0,
-      "net": 0,
+      "gross": 1,
+      "net": 1,
       "owed": 0,
       "percent": 0
     }
