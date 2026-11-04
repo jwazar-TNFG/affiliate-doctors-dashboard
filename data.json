@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:20:02",
+  "updated": "2026-11-03T22:20:03",
   "month": "November 2026",
   "data": [
     {
@@ -15,19 +15,19 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 40,
-      "net": 40,
-      "owed": 60,
-      "percent": 40
+      "gross": 45,
+      "net": 45,
+      "owed": 55,
+      "percent": 45
     },
     {
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 2,
-      "net": 2,
-      "owed": 49,
-      "percent": 4
+      "gross": 3,
+      "net": 3,
+      "owed": 48,
+      "percent": 6
     },
     {
       "clinic_name": "Dr. Khan (FL)",
@@ -60,10 +60,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 16,
-      "net": 16,
-      "owed": 9,
-      "percent": 64
+      "gross": 17,
+      "net": 17,
+      "owed": 8,
+      "percent": 68
     },
     {
       "clinic_name": "Dr. Nalley",
@@ -87,8 +87,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 4,
-      "net": 4,
+      "gross": 7,
+      "net": 7,
       "owed": 0,
       "percent": 0
     }
