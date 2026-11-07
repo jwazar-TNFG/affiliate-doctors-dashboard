@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:20:00",
+  "updated": "2026-11-07T12:20:05",
   "month": "November 2026",
   "data": [
     {
@@ -33,10 +33,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 60,
-      "net": 60,
-      "owed": 40,
-      "percent": 60
+      "gross": 61,
+      "net": 61,
+      "owed": 39,
+      "percent": 61
     },
     {
       "clinic_name": "Victor Patel",
