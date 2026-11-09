@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-09T14:20:03",
+  "updated": "2026-11-09T16:20:00",
   "month": "November 2026",
   "data": [
     {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 83,
-      "net": 83,
-      "owed": 117,
+      "gross": 84,
+      "net": 84,
+      "owed": 116,
       "percent": 42
     },
     {
