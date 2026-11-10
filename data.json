@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T16:20:04",
+  "updated": "2026-11-10T18:20:05",
   "month": "November 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 24,
-      "net": 24,
-      "owed": 27,
-      "percent": 47
+      "gross": 25,
+      "net": 25,
+      "owed": 26,
+      "percent": 49
     },
     {
       "clinic_name": "Victor Patel",
@@ -78,8 +78,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 21,
-      "net": 21,
+      "gross": 22,
+      "net": 22,
       "owed": 0,
       "percent": 0
     },
