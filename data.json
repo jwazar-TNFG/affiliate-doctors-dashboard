@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T10:20:02",
+  "updated": "2026-11-19T12:20:00",
   "month": "November 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 33,
-      "net": 33,
-      "owed": 18,
-      "percent": 65
+      "gross": 36,
+      "net": 36,
+      "owed": 15,
+      "percent": 71
     },
     {
       "clinic_name": "Victor Patel",
@@ -51,10 +51,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 172,
-      "net": 172,
+      "gross": 173,
+      "net": 173,
       "owed": 0,
-      "percent": 172
+      "percent": 173
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
