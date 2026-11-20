@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T10:20:00",
+  "updated": "2026-11-20T12:20:00",
   "month": "November 2026",
   "data": [
     {
@@ -12,15 +12,6 @@
       "percent": 56
     },
     {
-      "clinic_name": "Arrowhead Clinics",
-      "state": "Georgia",
-      "monthly_goal": 51,
-      "gross": 38,
-      "net": 38,
-      "owed": 13,
-      "percent": 75
-    },
-    {
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
@@ -28,6 +19,15 @@
       "net": 12,
       "owed": 13,
       "percent": 48
+    },
+    {
+      "clinic_name": "Arrowhead Clinics",
+      "state": "Georgia",
+      "monthly_goal": 51,
+      "gross": 39,
+      "net": 39,
+      "owed": 12,
+      "percent": 76
     },
     {
       "clinic_name": "Dr. Nalley",
@@ -42,10 +42,10 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 217,
-      "net": 217,
+      "gross": 219,
+      "net": 219,
       "owed": 0,
-      "percent": 108
+      "percent": 110
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
