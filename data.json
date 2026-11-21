@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T16:20:04",
+  "updated": "2026-11-21T18:20:02",
   "month": "November 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 42,
-      "net": 42,
-      "owed": 9,
-      "percent": 82
+      "gross": 46,
+      "net": 46,
+      "owed": 5,
+      "percent": 90
     },
     {
       "clinic_name": "Dr. Nalley",
