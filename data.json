@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T20:20:04",
+  "updated": "2026-11-21T22:20:04",
   "month": "November 2026",
   "data": [
     {
@@ -21,15 +21,6 @@
       "percent": 52
     },
     {
-      "clinic_name": "Arrowhead Clinics",
-      "state": "Georgia",
-      "monthly_goal": 51,
-      "gross": 46,
-      "net": 46,
-      "owed": 5,
-      "percent": 90
-    },
-    {
       "clinic_name": "Dr. Nalley",
       "state": "Florida",
       "monthly_goal": 5,
@@ -39,22 +30,31 @@
       "percent": 0
     },
     {
+      "clinic_name": "Arrowhead Clinics",
+      "state": "Georgia",
+      "monthly_goal": 51,
+      "gross": 49,
+      "net": 49,
+      "owed": 2,
+      "percent": 96
+    },
+    {
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 241,
-      "net": 241,
+      "gross": 242,
+      "net": 242,
       "owed": 0,
-      "percent": 120
+      "percent": 121
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 202,
-      "net": 202,
+      "gross": 204,
+      "net": 204,
       "owed": 0,
-      "percent": 202
+      "percent": 204
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
