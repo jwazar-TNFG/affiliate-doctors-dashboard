@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T14:20:00",
+  "updated": "2026-11-23T16:20:02",
   "month": "November 2026",
   "data": [
     {
@@ -15,10 +15,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 14,
-      "net": 14,
-      "owed": 11,
-      "percent": 56
+      "gross": 17,
+      "net": 17,
+      "owed": 8,
+      "percent": 68
     },
     {
       "clinic_name": "Dr. Nalley",
@@ -51,8 +51,8 @@
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 50,
-      "net": 50,
+      "gross": 52,
+      "net": 52,
       "owed": 0,
       "percent": 0
     },
@@ -60,19 +60,19 @@
       "clinic_name": "Arrowhead Clinics",
       "state": "Georgia",
       "monthly_goal": 51,
-      "gross": 67,
-      "net": 67,
+      "gross": 68,
+      "net": 68,
       "owed": 0,
-      "percent": 131
+      "percent": 133
     },
     {
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 113,
-      "net": 113,
+      "gross": 114,
+      "net": 114,
       "owed": 0,
-      "percent": 452
+      "percent": 456
     },
     {
       "clinic_name": "Dr. Genao",
