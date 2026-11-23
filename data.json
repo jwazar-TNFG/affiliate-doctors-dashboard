@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-23T16:20:02",
+  "updated": "2026-11-23T18:20:00",
   "month": "November 2026",
   "data": [
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 35,
-      "net": 35,
-      "owed": 15,
-      "percent": 70
+      "gross": 40,
+      "net": 40,
+      "owed": 10,
+      "percent": 80
     },
     {
       "clinic_name": "Victor Patel",
@@ -33,26 +33,26 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 259,
-      "net": 259,
+      "gross": 262,
+      "net": 262,
       "owed": 0,
-      "percent": 130
+      "percent": 131
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 223,
-      "net": 223,
+      "gross": 225,
+      "net": 225,
       "owed": 0,
-      "percent": 223
+      "percent": 225
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 52,
-      "net": 52,
+      "gross": 54,
+      "net": 54,
       "owed": 0,
       "percent": 0
     },
@@ -69,10 +69,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 114,
-      "net": 114,
+      "gross": 116,
+      "net": 116,
       "owed": 0,
-      "percent": 456
+      "percent": 464
     },
     {
       "clinic_name": "Dr. Genao",
