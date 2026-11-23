@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-23T08:20:01",
+  "updated": "2026-11-23T10:20:04",
   "month": "November 2026",
   "data": [
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 31,
-      "net": 31,
-      "owed": 19,
-      "percent": 62
+      "gross": 35,
+      "net": 35,
+      "owed": 15,
+      "percent": 70
     },
     {
       "clinic_name": "Victor Patel",
