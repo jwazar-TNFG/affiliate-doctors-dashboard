@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-24T10:20:04",
+  "updated": "2026-11-24T12:20:00",
   "month": "November 2026",
   "data": [
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
       "monthly_goal": 50,
-      "gross": 42,
-      "net": 42,
-      "owed": 8,
-      "percent": 84
+      "gross": 44,
+      "net": 44,
+      "owed": 6,
+      "percent": 88
     },
     {
       "clinic_name": "Victor Patel",
@@ -69,10 +69,10 @@
       "clinic_name": "Hess Orthopedics (NJ)",
       "state": "New Jersey",
       "monthly_goal": 25,
-      "gross": 117,
-      "net": 117,
+      "gross": 118,
+      "net": 118,
       "owed": 0,
-      "percent": 468
+      "percent": 472
     },
     {
       "clinic_name": "Dr. Genao",
