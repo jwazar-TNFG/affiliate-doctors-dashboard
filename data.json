@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-23T22:20:00",
+  "updated": "2026-11-24T08:20:02",
   "month": "November 2026",
   "data": [
-    {
-      "clinic_name": "Victor Patel",
-      "state": "Florida",
-      "monthly_goal": 25,
-      "gross": 16,
-      "net": 16,
-      "owed": 9,
-      "percent": 64
-    },
     {
       "clinic_name": "Dr. Khan (FL)",
       "state": "Florida",
@@ -19,6 +10,15 @@
       "net": 42,
       "owed": 8,
       "percent": 84
+    },
+    {
+      "clinic_name": "Victor Patel",
+      "state": "Florida",
+      "monthly_goal": 25,
+      "gross": 19,
+      "net": 19,
+      "owed": 6,
+      "percent": 76
     },
     {
       "clinic_name": "Dr. Nalley",
