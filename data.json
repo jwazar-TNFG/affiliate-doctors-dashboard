@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-25T22:20:00",
+  "updated": "2026-11-26T08:20:02",
   "month": "November 2026",
   "data": [
-    {
-      "clinic_name": "Dr. Khan (FL)",
-      "state": "Florida",
-      "monthly_goal": 50,
-      "gross": 45,
-      "net": 45,
-      "owed": 5,
-      "percent": 90
-    },
     {
       "clinic_name": "Dr. Nalley",
       "state": "Florida",
@@ -19,6 +10,15 @@
       "net": 0,
       "owed": 5,
       "percent": 0
+    },
+    {
+      "clinic_name": "Dr. Khan (FL)",
+      "state": "Florida",
+      "monthly_goal": 50,
+      "gross": 46,
+      "net": 46,
+      "owed": 4,
+      "percent": 92
     },
     {
       "clinic_name": "Georgia Injury Centers",
