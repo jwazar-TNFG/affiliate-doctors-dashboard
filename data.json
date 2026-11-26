@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T10:20:02",
+  "updated": "2026-11-26T12:20:02",
   "month": "November 2026",
   "data": [
     {
@@ -24,10 +24,10 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 286,
-      "net": 286,
+      "gross": 287,
+      "net": 287,
       "owed": 0,
-      "percent": 143
+      "percent": 144
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
