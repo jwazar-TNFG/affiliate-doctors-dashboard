@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T14:20:01",
+  "updated": "2026-11-26T16:20:02",
   "month": "November 2026",
   "data": [
     {
@@ -24,26 +24,26 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 287,
-      "net": 287,
+      "gross": 291,
+      "net": 291,
       "owed": 0,
-      "percent": 144
+      "percent": 146
     },
     {
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 249,
-      "net": 249,
+      "gross": 251,
+      "net": 251,
       "owed": 0,
-      "percent": 249
+      "percent": 251
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
       "state": "Florida",
       "monthly_goal": 0,
-      "gross": 55,
-      "net": 55,
+      "gross": 56,
+      "net": 56,
       "owed": 0,
       "percent": 0
     },
@@ -87,10 +87,10 @@
       "clinic_name": "Victor Patel",
       "state": "Florida",
       "monthly_goal": 25,
-      "gross": 25,
-      "net": 25,
+      "gross": 27,
+      "net": 27,
       "owed": 0,
-      "percent": 100
+      "percent": 108
     }
   ]
 }
