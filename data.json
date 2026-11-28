@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T10:20:00",
+  "updated": "2026-11-28T12:20:00",
   "month": "November 2026",
   "data": [
     {
@@ -24,8 +24,8 @@
       "clinic_name": "Georgia Injury Centers",
       "state": "Georgia",
       "monthly_goal": 200,
-      "gross": 299,
-      "net": 299,
+      "gross": 301,
+      "net": 301,
       "owed": 0,
       "percent": 150
     },
@@ -33,10 +33,10 @@
       "clinic_name": "Illinois Orthopedic Network (ION)",
       "state": "Illinois",
       "monthly_goal": 100,
-      "gross": 268,
-      "net": 268,
+      "gross": 270,
+      "net": 270,
       "owed": 0,
-      "percent": 268
+      "percent": 270
     },
     {
       "clinic_name": "Physicians Group / Path Medical",
